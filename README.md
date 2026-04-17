@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Benedetta-Salvati/Benedetta-Salvati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+I am a computational philologist and digital humanist specializing in medieval French literature, textual variation, and digital scholarly editing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research focuses on the computational analysis of textual traditions, combining philology, linguistics, and data science.
+
+## Research interests
+
+- digital philology
+- TEI-XML encoding
+- textual variation
+- stylometry
+- computational stemmatology
+- manuscript traditions
+- historical NLP
+
+## Academic background
+
+PhD in French language and literature  
+École nationale des Chartes – PSL & University of Lausanne
+
+Current research in digital scholarly editing and modeling textual variation in medieval corpora.
+
